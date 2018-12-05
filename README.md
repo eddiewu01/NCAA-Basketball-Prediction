@@ -9,7 +9,7 @@ lose the matchup. It is also shown that teams with higher number of steals & blo
 ## Structure
 
 #### NCAA_Predictions_And_Insights.ipynb
-This jupyter notebook file contains all the steps for building this model, from preparation of data to testing the model on 2017 march madness matchups. 
+This jupyter notebook file contains the essential implementation of this project. It outlines the steps for building this model, from preparation of data to testing the model on 2017 march madness matchups. 
 
 #### Reports
 This folder contains the proposal and final report of this project.
